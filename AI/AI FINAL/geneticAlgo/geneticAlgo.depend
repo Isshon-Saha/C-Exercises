@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511668236 source:c:\users\student\desktop\geneticalgo\main.cpp
+	<iostream>
+	<algorithm>
+	<sstream>
+

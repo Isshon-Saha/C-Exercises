@@ -1,0 +1,15 @@
+﻿1. From a user given string you need to count how many vowels and consonants are in the string.
+ 
+2. From a user given string you need to Convert the whole string to its opposite case means lower to upper or upper to lower. E.g. given “My Name Is Awal”. Output is “mY nAME iS aWAL”. Or vice versa.
+
+You need read the input from a file and write the output on another file.
+
+
+3. Implement a function with the following specification:
+string sentence_reverse(const string& s)
+where s is the string to be reversed, the reversed string is returned.
+The reversal happens in a special way where the words remain intact but the sentence 
+is reversed. E.g. if the string to be reversed is “This is the string to be reversed”, the 
+Reversed string will be “reversed be to string the is This”.
+
+You need read the input from a file and write the output on another file.

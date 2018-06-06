@@ -1,0 +1,13 @@
+1. Write an application to gracefully conduct with the following loop:
+
+   for(int i=5;i>-4;i--)
+	cout<<22/i<<endl;
+
+   where we want to avoid an error caused by "devide by zero".
+
+
+2.  Write an application where the user inputs a sring. if the string is 0 lengthor if it has a length greater than 10, then an exception will be called. Under any circumstance the application should output a string where 10>length>0.
+
+3. Your application has an array of size 10. It is filled with user entered inputs.
+   the user inputs data in an infinite loop. if the input exceeds the size of the array
+   the an exception is thrown.

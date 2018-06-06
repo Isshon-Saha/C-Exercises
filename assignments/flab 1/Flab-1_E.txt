@@ -1,0 +1,22 @@
+			Assignment-01_a
+
+Define 3 class named P, Q, R, S which will have the following properties-
+1. Define constructor and destructor inside of all classes.
+2. Give a print out statement inside of constructor and destructor.
+3. Create 4 objects from those 4 classes 
+4. Implement the scenario given below-
+Q->P
+R->Q
+S->R
+			Assignment-01_b
+5. Implement the scenario given below-
+S->P,Q,R
+
+			Assignment-02
+
+Write a multiple inheritance program considering the following scenario.
+Registration-> Course, Section
+ 
+Add some functionalities those are relevant to each of the classes. Define all the functions in each of the classes you think can be added. Design the above scenario using C++ code according to the reality.
+
+Caution: Don’t forget the direction of the arrows.
